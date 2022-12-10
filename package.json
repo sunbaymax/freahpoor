@@ -14,7 +14,7 @@
     "echarts": "^4.2.1",
     "element-ui": "^2.8.2",
     "lib-flexible": "^0.3.2",
-    "qs": "^6.9.1",
+    "qs": "^6.5.3",
     "screenfull": "^4.2.0",
     "v-charts": "^1.19.0",
     "vue": "^2.5.2",
